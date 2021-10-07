@@ -32,4 +32,5 @@ while True:
         total_dist += last_dist
         result += f" -> {point_1}[{last_dist}] = {total_dist}"
         break
+
 print(result)
